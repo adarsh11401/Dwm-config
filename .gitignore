@@ -1,0 +1,26 @@
+# Build artifacts
+*.o
+*.out
+*.tar.gz
+*.log
+
+# Editor swap/backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# Binary executables
+dwm
+st
+dmenu
+
+# Temporary build directories
+*.dSYM/
+*.cache/
+*.tmp/
+*.temp/
+
+# Misc
+.DS_Store
+
